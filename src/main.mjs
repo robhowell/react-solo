@@ -43,10 +43,4 @@ const main = async () => {
   projectInstall();
 };
 
-// - Use cross-spawn to run "cd .react-solo" command
-// - Use cross-spawn to run npm install (or yarn install if installed)
-// - Use console.log and chalk to give user updates
-// - Replace App.js with file that imports the target component and puts it in render function
-// - Run npm/yarn start in that directory
-
 main();
