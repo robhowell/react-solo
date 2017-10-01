@@ -1,3 +1,5 @@
+# 🚧 Currently under development, not yet ready to use! 🚧
+
 # React Solo
 
 ### For developing one React component at a time
