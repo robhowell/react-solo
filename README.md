@@ -1,5 +1,7 @@
 # 🚧 Currently under development, not yet ready to use! 🚧
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/robhowell/react-solo.svg)](https://greenkeeper.io/)
+
 # React Solo
 
 ### For developing one React component at a time
